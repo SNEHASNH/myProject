@@ -1,0 +1,20 @@
+soft ware required.
+=============================
+
+tomcat 5.0
+
+j2sdk 1.4
+
+oracle 8i
+
+execution
+===============================
+
+1.create system dsn name-netbank,pswd-netbank.for odbc connection
+
+2.create user netbank with pswd netbank.
+
+3.create data base tables
+===============================
+
+1.instal tomcat server and place the netbanking folder in wedapps folder.
